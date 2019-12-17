@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.kakarrot.util.FileUtilTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-25T11:12:07" hostname="DESKTOP-40QJL0F" time="0.01">
+  <properties/>
+  <testcase name="testGetFileList" classname="org.kakarrot.util.FileUtilTests" time="0.01"/>
+  <system-out><![CDATA[INFO  [FileUtilTests:19] - C:\upload\2019\11\25\9b756775-7883-4671-bbbe-6851f22485a5_aksrl.jpg
+INFO  [FileUtilTests:19] - C:\upload\2019\11\25\9f880a70-e66d-4517-a3b3-728559d29635_aksrl.jpg
+INFO  [FileUtilTests:19] - C:\upload\2019\11\25\s_9b756775-7883-4671-bbbe-6851f22485a5_aksrl.jpg
+INFO  [FileUtilTests:19] - C:\upload\2019\11\25\s_9f880a70-e66d-4517-a3b3-728559d29635_aksrl.jpg
+INFO  [FileUtilTests:19] - C:\upload\2019\11\25\v_9b756775-7883-4671-bbbe-6851f22485a5_aksrl.jpg
+INFO  [FileUtilTests:19] - C:\upload\2019\11\25\v_9f880a70-e66d-4517-a3b3-728559d29635_aksrl.jpg
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
