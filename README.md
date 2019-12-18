@@ -4,7 +4,7 @@
 JSP를 사용하지 않고 Single page 방식으로 Ajax를 통해 REST작업 방식을 사용. 
 
 
--- 작업시 방생하는 오류 Memo
+-- 작업시 발생하는 오류 Memo
 기존의 페이징 방식과 다른점과 발생하는 오류!
 
 -- getList()
